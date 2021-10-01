@@ -1,0 +1,11 @@
+
+
+export const PrivateRoute = () => {
+    return (
+        <>
+
+        </>
+    )
+}
+
+
